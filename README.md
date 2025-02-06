@@ -1,3 +1,6 @@
+<p align="center"><img src="coding.gif?raw=true" alt="coder gif" height="500" width="500" align="center"></p>
+
+
 <a href="https://github.com/vigneshwaranhn/BSM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshwaranhn&repo=BSM&show_icons=true&line_height=27&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000" alt="DA-RNN" />
 </a>
