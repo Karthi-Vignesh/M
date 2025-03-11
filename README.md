@@ -1,3 +1,4 @@
+<img src="code.gif?raw=true" alt="coder gif" height="500" width="500" align="center">
 <p align="center"><img src="coding.gif?raw=true" alt="coder gif" height="500" width="500" align="center"></p>
 
 
